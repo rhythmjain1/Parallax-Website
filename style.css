@@ -38,6 +38,7 @@ h1{
     letter-spacing: 4px;
     color: white;
     text-shadow: 0 0 10px rgba(0,0,0,0.3);
+    font-size: 3.5rem;
 }
 section{
     background-color: black;
